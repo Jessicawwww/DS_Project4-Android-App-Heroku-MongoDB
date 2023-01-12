@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cocktail Helper</string>
+    <string name="hello">Seach cocktail by its name.</string>
+    <string name="action_settings">Action</string>
+</resources>
